@@ -1,4 +1,7 @@
 # Grounded SAM 2: Ground and Track Anything in Videos
+Xia Su built upon this grounded-sam-2 repo for the DepthScape project. 
+
+When running DepthScape, please follow the original guideline below to set up the environment, then install flask with pip. Afterwards, just start the grounded_sam2_image_server.py and update the DepthScape server with the corresponding URL.
 
 **[IDEA-Research](https://github.com/idea-research)**
 
